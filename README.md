@@ -43,3 +43,45 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 I would like to express our gratitude to the various cricket websites and data sources from which we collected the data for this project.
 
+
+# IPL 2023 Bowling Statistics Visualization
+
+## Overview
+Excited to share my latest project on visualizing IPL 2023 bowling statistics! Leveraging Python modules and PowerBI, I scraped and visualized the data to uncover insights into the performance of bowlers in IPL 2023.
+
+## Key Highlights
+- Scraped data using Python modules from various websites.
+- Conducted data preprocessing to clean and refine the dataset.
+- Utilized PowerBI to create visually appealing charts and graphs.
+
+## Visualizations
+### Top Bowlers by Wickets
+Top Bowlers by Wickets
+
+### Top 5 Bowlers by Lowest Economy
+Top 5 Bowlers by Lowest Economy
+
+### 5-Wicket Hauls
+5-Wicket Hauls
+
+### 4-Wicket Hauls
+4-Wicket Hauls
+
+### Best Bowling Performance by Purple Cap Holder
+Best Bowling Performance by Purple Cap Holder
+
+### Players by Innings
+Players by Innings
+
+### Maiden Overs by Players
+Maiden Overs by Players
+
+## Technologies Used
+- Python
+- PowerBI
+
+![ipl bowling stats visualization](https://github.com/supernova2001/Iplstats/assets/44167497/2924d2f6-efdf-412a-b828-30dfd24c498b)
+
+## Let's Connect!
+Feel free to reach out if you're interested in exploring the insights further or collaborating on similar projects.
+
